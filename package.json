@@ -52,6 +52,7 @@
     "build:native:tproxy": "node scripts/build/build-tproxy-native.mjs",
     "start": "node scripts/dev/run-next.mjs start",
     "start:fast": "cross-env OMNIROUTE_SKIP_STANDALONE=1 node scripts/dev/run-next.mjs start",
+    "check:health": "node scripts/dev/healthcheck.mjs",
     "check:native-deps": "node scripts/check/check-native-deps.mjs",
     "check:node-runtime": "node --import tsx scripts/check/check-supported-node-runtime.ts",
     "check:pack-artifact": "node --import tsx scripts/build/validate-pack-artifact.ts",

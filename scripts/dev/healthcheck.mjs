@@ -156,12 +156,12 @@ async function main() {
       process.env.OMNIROUTE_HEALTHCHECK_PATH
     );
     await probeHealth({ port, hosts, healthPath });
-    process.exit(0);
+    process.exitCode = 0;
   } catch (err) {
     // Surface the failure so `docker inspect ... .State.Health[].Output` is
     // diagnostic instead of empty (#3151).
     process.stderr.write(`healthcheck failed: ${err instanceof Error ? err.message : err}\n`);
-    process.exit(1);
+    process.exitCode = 1;
   }
 }
 
