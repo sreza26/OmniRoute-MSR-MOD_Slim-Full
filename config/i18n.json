@@ -1,0 +1,549 @@
+{
+  "default": "en",
+  "rtl": [
+    "ar",
+    "he",
+    "fa",
+    "ur"
+  ],
+  "uiOnly": [],
+  "docsExcluded": [],
+  "locales": [
+    {
+      "code": "am",
+      "label": "am",
+      "name": "am",
+      "native": "am",
+      "english": "am",
+      "flag": "🌐"
+    },
+    {
+      "code": "ar",
+      "label": "ar",
+      "name": "ar",
+      "native": "ar",
+      "english": "ar",
+      "flag": "🌐"
+    },
+    {
+      "code": "az",
+      "label": "az",
+      "name": "az",
+      "native": "az",
+      "english": "az",
+      "flag": "🌐"
+    },
+    {
+      "code": "bg",
+      "label": "bg",
+      "name": "bg",
+      "native": "bg",
+      "english": "bg",
+      "flag": "🌐"
+    },
+    {
+      "code": "bn",
+      "label": "bn",
+      "name": "bn",
+      "native": "bn",
+      "english": "bn",
+      "flag": "🌐"
+    },
+    {
+      "code": "bs",
+      "label": "bs",
+      "name": "bs",
+      "native": "bs",
+      "english": "bs",
+      "flag": "🌐"
+    },
+    {
+      "code": "cs",
+      "label": "cs",
+      "name": "cs",
+      "native": "cs",
+      "english": "cs",
+      "flag": "🌐"
+    },
+    {
+      "code": "da",
+      "label": "da",
+      "name": "da",
+      "native": "da",
+      "english": "da",
+      "flag": "🌐"
+    },
+    {
+      "code": "de",
+      "label": "de",
+      "name": "de",
+      "native": "de",
+      "english": "de",
+      "flag": "🌐"
+    },
+    {
+      "code": "el",
+      "label": "el",
+      "name": "el",
+      "native": "el",
+      "english": "el",
+      "flag": "🌐"
+    },
+    {
+      "code": "en",
+      "label": "en",
+      "name": "en",
+      "native": "en",
+      "english": "en",
+      "flag": "🌐"
+    },
+    {
+      "code": "es",
+      "label": "es",
+      "name": "es",
+      "native": "es",
+      "english": "es",
+      "flag": "🌐"
+    },
+    {
+      "code": "et",
+      "label": "et",
+      "name": "et",
+      "native": "et",
+      "english": "et",
+      "flag": "🌐"
+    },
+    {
+      "code": "fa",
+      "label": "fa",
+      "name": "fa",
+      "native": "fa",
+      "english": "fa",
+      "flag": "🌐"
+    },
+    {
+      "code": "fi",
+      "label": "fi",
+      "name": "fi",
+      "native": "fi",
+      "english": "fi",
+      "flag": "🌐"
+    },
+    {
+      "code": "fr",
+      "label": "fr",
+      "name": "fr",
+      "native": "fr",
+      "english": "fr",
+      "flag": "🌐"
+    },
+    {
+      "code": "ga",
+      "label": "ga",
+      "name": "ga",
+      "native": "ga",
+      "english": "ga",
+      "flag": "🌐"
+    },
+    {
+      "code": "gu",
+      "label": "gu",
+      "name": "gu",
+      "native": "gu",
+      "english": "gu",
+      "flag": "🌐"
+    },
+    {
+      "code": "ha",
+      "label": "ha",
+      "name": "ha",
+      "native": "ha",
+      "english": "ha",
+      "flag": "🌐"
+    },
+    {
+      "code": "he",
+      "label": "he",
+      "name": "he",
+      "native": "he",
+      "english": "he",
+      "flag": "🌐"
+    },
+    {
+      "code": "hi",
+      "label": "hi",
+      "name": "hi",
+      "native": "hi",
+      "english": "hi",
+      "flag": "🌐"
+    },
+    {
+      "code": "hr",
+      "label": "hr",
+      "name": "hr",
+      "native": "hr",
+      "english": "hr",
+      "flag": "🌐"
+    },
+    {
+      "code": "hu",
+      "label": "hu",
+      "name": "hu",
+      "native": "hu",
+      "english": "hu",
+      "flag": "🌐"
+    },
+    {
+      "code": "hy",
+      "label": "hy",
+      "name": "hy",
+      "native": "hy",
+      "english": "hy",
+      "flag": "🌐"
+    },
+    {
+      "code": "id",
+      "label": "id",
+      "name": "id",
+      "native": "id",
+      "english": "id",
+      "flag": "🌐"
+    },
+    {
+      "code": "ig",
+      "label": "ig",
+      "name": "ig",
+      "native": "ig",
+      "english": "ig",
+      "flag": "🌐"
+    },
+    {
+      "code": "it",
+      "label": "it",
+      "name": "it",
+      "native": "it",
+      "english": "it",
+      "flag": "🌐"
+    },
+    {
+      "code": "ja",
+      "label": "ja",
+      "name": "ja",
+      "native": "ja",
+      "english": "ja",
+      "flag": "🌐"
+    },
+    {
+      "code": "ka",
+      "label": "ka",
+      "name": "ka",
+      "native": "ka",
+      "english": "ka",
+      "flag": "🌐"
+    },
+    {
+      "code": "km",
+      "label": "km",
+      "name": "km",
+      "native": "km",
+      "english": "km",
+      "flag": "🌐"
+    },
+    {
+      "code": "kn",
+      "label": "kn",
+      "name": "kn",
+      "native": "kn",
+      "english": "kn",
+      "flag": "🌐"
+    },
+    {
+      "code": "ko",
+      "label": "ko",
+      "name": "ko",
+      "native": "ko",
+      "english": "ko",
+      "flag": "🌐"
+    },
+    {
+      "code": "lt",
+      "label": "lt",
+      "name": "lt",
+      "native": "lt",
+      "english": "lt",
+      "flag": "🌐"
+    },
+    {
+      "code": "lv",
+      "label": "lv",
+      "name": "lv",
+      "native": "lv",
+      "english": "lv",
+      "flag": "🌐"
+    },
+    {
+      "code": "ml",
+      "label": "ml",
+      "name": "ml",
+      "native": "ml",
+      "english": "ml",
+      "flag": "🌐"
+    },
+    {
+      "code": "mr",
+      "label": "mr",
+      "name": "mr",
+      "native": "mr",
+      "english": "mr",
+      "flag": "🌐"
+    },
+    {
+      "code": "ms",
+      "label": "ms",
+      "name": "ms",
+      "native": "ms",
+      "english": "ms",
+      "flag": "🌐"
+    },
+    {
+      "code": "mt",
+      "label": "mt",
+      "name": "mt",
+      "native": "mt",
+      "english": "mt",
+      "flag": "🌐"
+    },
+    {
+      "code": "my",
+      "label": "my",
+      "name": "my",
+      "native": "my",
+      "english": "my",
+      "flag": "🌐"
+    },
+    {
+      "code": "ne",
+      "label": "ne",
+      "name": "ne",
+      "native": "ne",
+      "english": "ne",
+      "flag": "🌐"
+    },
+    {
+      "code": "nl",
+      "label": "nl",
+      "name": "nl",
+      "native": "nl",
+      "english": "nl",
+      "flag": "🌐"
+    },
+    {
+      "code": "no",
+      "label": "no",
+      "name": "no",
+      "native": "no",
+      "english": "no",
+      "flag": "🌐"
+    },
+    {
+      "code": "or",
+      "label": "or",
+      "name": "or",
+      "native": "or",
+      "english": "or",
+      "flag": "🌐"
+    },
+    {
+      "code": "pa",
+      "label": "pa",
+      "name": "pa",
+      "native": "pa",
+      "english": "pa",
+      "flag": "🌐"
+    },
+    {
+      "code": "phi",
+      "label": "phi",
+      "name": "phi",
+      "native": "phi",
+      "english": "phi",
+      "flag": "🌐"
+    },
+    {
+      "code": "pl",
+      "label": "pl",
+      "name": "pl",
+      "native": "pl",
+      "english": "pl",
+      "flag": "🌐"
+    },
+    {
+      "code": "pt-BR",
+      "label": "pt-BR",
+      "name": "pt-BR",
+      "native": "pt-BR",
+      "english": "pt-BR",
+      "flag": "🌐"
+    },
+    {
+      "code": "pt",
+      "label": "pt",
+      "name": "pt",
+      "native": "pt",
+      "english": "pt",
+      "flag": "🌐"
+    },
+    {
+      "code": "ro",
+      "label": "ro",
+      "name": "ro",
+      "native": "ro",
+      "english": "ro",
+      "flag": "🌐"
+    },
+    {
+      "code": "ru",
+      "label": "ru",
+      "name": "ru",
+      "native": "ru",
+      "english": "ru",
+      "flag": "🌐"
+    },
+    {
+      "code": "si",
+      "label": "si",
+      "name": "si",
+      "native": "si",
+      "english": "si",
+      "flag": "🌐"
+    },
+    {
+      "code": "sk",
+      "label": "sk",
+      "name": "sk",
+      "native": "sk",
+      "english": "sk",
+      "flag": "🌐"
+    },
+    {
+      "code": "sl",
+      "label": "sl",
+      "name": "sl",
+      "native": "sl",
+      "english": "sl",
+      "flag": "🌐"
+    },
+    {
+      "code": "sr",
+      "label": "sr",
+      "name": "sr",
+      "native": "sr",
+      "english": "sr",
+      "flag": "🌐"
+    },
+    {
+      "code": "sv",
+      "label": "sv",
+      "name": "sv",
+      "native": "sv",
+      "english": "sv",
+      "flag": "🌐"
+    },
+    {
+      "code": "sw",
+      "label": "sw",
+      "name": "sw",
+      "native": "sw",
+      "english": "sw",
+      "flag": "🌐"
+    },
+    {
+      "code": "ta",
+      "label": "ta",
+      "name": "ta",
+      "native": "ta",
+      "english": "ta",
+      "flag": "🌐"
+    },
+    {
+      "code": "te",
+      "label": "te",
+      "name": "te",
+      "native": "te",
+      "english": "te",
+      "flag": "🌐"
+    },
+    {
+      "code": "th",
+      "label": "th",
+      "name": "th",
+      "native": "th",
+      "english": "th",
+      "flag": "🌐"
+    },
+    {
+      "code": "tr",
+      "label": "tr",
+      "name": "tr",
+      "native": "tr",
+      "english": "tr",
+      "flag": "🌐"
+    },
+    {
+      "code": "uk-UA",
+      "label": "uk-UA",
+      "name": "uk-UA",
+      "native": "uk-UA",
+      "english": "uk-UA",
+      "flag": "🌐"
+    },
+    {
+      "code": "ur",
+      "label": "ur",
+      "name": "ur",
+      "native": "ur",
+      "english": "ur",
+      "flag": "🌐"
+    },
+    {
+      "code": "uz",
+      "label": "uz",
+      "name": "uz",
+      "native": "uz",
+      "english": "uz",
+      "flag": "🌐"
+    },
+    {
+      "code": "vi",
+      "label": "vi",
+      "name": "vi",
+      "native": "vi",
+      "english": "vi",
+      "flag": "🌐"
+    },
+    {
+      "code": "yo",
+      "label": "yo",
+      "name": "yo",
+      "native": "yo",
+      "english": "yo",
+      "flag": "🌐"
+    },
+    {
+      "code": "zh-CN",
+      "label": "zh-CN",
+      "name": "zh-CN",
+      "native": "zh-CN",
+      "english": "zh-CN",
+      "flag": "🌐"
+    },
+    {
+      "code": "zh-TW",
+      "label": "zh-TW",
+      "name": "zh-TW",
+      "native": "zh-TW",
+      "english": "zh-TW",
+      "flag": "🌐"
+    }
+  ]
+}
